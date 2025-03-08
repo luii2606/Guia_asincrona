@@ -1,0 +1,20 @@
+[
+  {
+    "nombres" : "Luisa Valentina",
+    "edad" : "18",
+    "nacionalidad" : "Colombiana"
+  },
+  {
+    "nombres" : "Julián Dario",
+    "edad" : "18",
+    "nacionalidad" : "Venezolano"
+    
+  },
+  
+  {
+    "nombres" : "Johan Sebastián",
+    "edad" : "11",
+    "nacionalidad" : "Colombiano"
+  }
+
+]
